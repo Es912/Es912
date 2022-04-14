@@ -2,6 +2,10 @@
 - 👀 I’m interested in Programming and web development  
 - 🌱 I’m currently learning to be a Professional web developer.
 - 📫 How to reach me { 
+      Discord : EssO#0653
+      Facebook : islam.so00liman
+      whatsapp : +201227315356
+      }
 
 
 <!---
