@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and web development  
 - 🌱 I’m currently learning to be a Full-Stack developer.
 - 📫 How to reach me { <br>
-      Discord : EssO#0653 <br>
+      Discord : esso912 <br>
       Facebook : islam.so00liman <br>
       whatsapp : +201227315356 <br>
       }
