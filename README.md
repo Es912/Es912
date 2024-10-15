@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eslam
 - 👀 I’m interested in Programming and web development  
-- 🌱 I’m currently learning to be a Full-Stack developer.
+- 🌱 a Full-Stack  Web developer.
 - 📫 How to reach me { <br>
       Discord : esso912 <br>
       Facebook : islam.so00liman <br>
