@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Eslam
 - 👀 I’m interested in Programming and web development  
 - 🌱 a Full-Stack  Web developer.
-- 📫 How to reach me { <br>
+- 📫 How to reach me : <br>
       Discord : esso912 <br>
       Facebook : islam.so00liman <br>
       whatsapp : +201227315356 <br>
