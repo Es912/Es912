@@ -5,7 +5,7 @@
       Discord : esso912 <br>
       Facebook : islam.so00liman <br>
       whatsapp : +201227315356 <br>
-      }
+      
 
 
 <!---
